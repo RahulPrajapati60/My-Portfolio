@@ -1,40 +1,250 @@
-# Getting Started with Create React App
+# 🌐 Rahul Prajapati - Developer Portfolio
 
-## Available Scripts
+Welcome to my personal portfolio website! This portfolio showcases my skills, projects, education, and experience as a Full Stack Developer. It serves as a central place where recruiters, developers, and clients can learn more about me and explore my work.
 
-In the project directory, you can run :
+## 🔗 Live Demo
 
-### `npm start`
+🌍 Portfolio: https://my-portfolio-chi-nine-59.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📂 GitHub Repository
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+💻 Repository: https://github.com/RahulPrajapati60/My-Portfolio
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📖 About
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I am Rahul Prajapati, a BCA graduate specializing in Multimedia & Web Application Development. I enjoy building responsive, scalable, and user-friendly web applications using modern technologies.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I am actively seeking opportunities as a:
 
-### `npm run eject`
+- Full Stack Developer
+- Backend Developer
+- Python Developer
+- Software Engineer
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# ✨ Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Responsive Design
+- Modern UI/UX
+- About Me Section
+- Technical Skills
+- Featured Projects
+- Education Timeline
+- Resume Download
+- Contact Information
+- Social Media Links
+- Mobile Friendly
+- Smooth Animations
+- Fast Loading
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+# 🛠 Tech Stack
 
-You can learn more in the [Create React App documentation].
+### Frontend
 
-To learn React, check out the [React documentation].
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
 
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
+
+---
+
+# 📁 Featured Projects
+
+## 🎭 Theatre Ticket Booking System
+
+A full-stack movie ticket booking application where users can browse movies, select seats, and book tickets.
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+---
+
+## 🛒 MERN E-Commerce Platform
+
+An e-commerce platform with authentication, product management, shopping cart, and order functionality.
+
+**Tech Stack**
+
+- React
+- Express
+- MongoDB
+- Node.js
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive portfolio website built to showcase my projects, technical skills, and professional journey.
+
+---
+
+# 📸 Screenshots
+
+## Home
+
+> Add screenshot here
+
+```
+/screenshots/home.png
+```
+
+## About
+
+```
+/screenshots/about.png
+```
+
+## Projects
+
+```
+/screenshots/projects.png
+```
+
+## Contact
+
+```
+/screenshots/contact.png
+```
+
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/RahulPrajapati60/My-Portfolio.git
+```
+
+Go to project directory
+
+```bash
+cd My-Portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
+
+```bash
+npm run dev
+```
+
+---
+
+# 📁 Project Structure
+
+```
+My-Portfolio
+│
+├── public
+├── src
+│   ├── assets
+│   ├── components
+│   ├── pages
+│   ├── styles
+│   └── App.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# 🎯 Skills
+
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Python
+- REST APIs
+- Git & GitHub
+- HTML
+- CSS
+- Tailwind CSS
+
+---
+
+# 📬 Contact
+
+**Rahul Prajapati**
+
+📧 Email: rahulprajapati987@gmail.com
+
+🌐 Portfolio: https://my-portfolio-chi-nine-59.vercel.app/
+
+💻 GitHub: https://github.com/RahulPrajapati60
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/rahul-prajapati-314a9530a
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and feedback are always welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push the branch
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub. It motivates me to build more open-source projects.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Rahul Prajapati**
+
+Full Stack Developer | Backend Developer | Python Developer
+
+Thank you for visiting my portfolio! 🚀
